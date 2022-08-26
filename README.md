@@ -10,7 +10,7 @@ I created a basic composition using the Python programming language in Earsketch
 - Create a function to call effects for sound files. 
 - Organize code by using variables.
 
-## Created Musics in Earsketch
+## Created Audio Files in Earsketch
 
 1. [Composed Music 1](https://earsketch.gatech.edu/earsketch2/?sharing=p_ymdKFC5gZ5JJoA3SdHOg)
 2. [Composed Music 2](https://earsketch.gatech.edu/earsketch2/?sharing=LuW6xUt4BiEG5UhB3hBO4Q)
