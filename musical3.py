@@ -1,6 +1,6 @@
-# title: 
-# author: 
-# description: 
+# title: musical3
+# author: Monisha Basak
+# description: Composing music using Python
 
 from earsketch import *
 
